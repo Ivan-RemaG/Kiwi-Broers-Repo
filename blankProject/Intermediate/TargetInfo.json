@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "blankProject",
+			"Path": "C:\\Unreal Projects\\GitHub Kiwi-Broers-Repo\\Kiwi-Broers-Repo\\blankProject\\Source\\blankProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "blankProjectEditor",
+			"Path": "C:\\Unreal Projects\\GitHub Kiwi-Broers-Repo\\Kiwi-Broers-Repo\\blankProject\\Source\\blankProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
