@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\Unreal Projects\\GitHub Kiwi-Broers-Repo\\Kiwi-Broers-Repo\\blankProject\\Source\\blankProject\\blankProject.Build.cs",
-		"C:\\Unreal Projects\\GitHub Kiwi-Broers-Repo\\Kiwi-Broers-Repo\\blankProject\\Source\\blankProject.Target.cs",
-		"C:\\Unreal Projects\\GitHub Kiwi-Broers-Repo\\Kiwi-Broers-Repo\\blankProject\\Source\\blankProjectEditor.Target.cs"
-	],
-	"EngineVersion": "5.0.3"
-}
